@@ -2,7 +2,7 @@
 
 ## Instrucciones 
 
-Crear una pagina web sencilla con HTML
+Una pagina breve de un restaurante haciendola de la manera mas completa y fncional.
 
 ## Informacion del autor 
 
