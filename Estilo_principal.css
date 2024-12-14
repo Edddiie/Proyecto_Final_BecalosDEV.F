@@ -1,9 +1,15 @@
-h1 {
+.Estilo_principal h1 {
     color:#F5A6A0;
     font-size: 50px;
 }
 
-h3 {
+.Estilo_principal h3 {
     color:#F41A7B;
     font-size: 20px;
+}
+
+.Estilo_vinculos h1{
+        color: #F5B8AF;
+        font-size: 45px;
+    
 }
